@@ -1,0 +1,12 @@
+
+.login-logo img{
+	max-width: 200px;
+}
+.field-username{
+	border: 1px solid #e4e7ea !important;
+	border-radius: 0.25rem !important;
+}
+.login-error{
+	color: #dc3545;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,6 @@
+ Channel: PJSIP/12512412@airtel
+ Content:intCall 
+ Priority : 1 
+ MaxRetries: 0 
+ CallerId: 654965469469496 <654965469469496> 
+ WaitTime: 5000

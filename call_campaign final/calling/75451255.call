@@ -1,0 +1,6 @@
+ Channel: PJSIP/75451255@airtel
+ Content:intCall 
+ Priority : 1 
+ MaxRetries: 0 
+ CallerId: 4881851 <4881851> 
+ WaitTime: 5000
